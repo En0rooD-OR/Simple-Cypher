@@ -5,7 +5,8 @@ setup(
     description="Cesar and Vignére code cipher and decryptor"
     version="0.0.1",
     author="EnrooD-OR",
-    url="https://github.com/En0rooD-OR/Simple-Cypher"
+    url="https://github.com/En0rooD-OR/Simple-Cypher",
+    packages=["SCypher"],
 )
 
 """
