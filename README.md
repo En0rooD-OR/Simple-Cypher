@@ -56,5 +56,5 @@ print("Your Vigenère code decrypted: ", NewMessage4)
 # Notes
 I can't upload this file to pypi (for now), but I will soon, Meanwhile the file is only available here.
 
-# AUTHOR
-Ēn0røøD 
+**Author**
+[Ēn0røøD](https://youtube.com/@en0roodor?si=MK6lOlsDk4TXlVAT)
