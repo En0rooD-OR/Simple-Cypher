@@ -1,0 +1,8 @@
+README.md
+setup.py
+SCypher/SCypher.py
+SCypher/__init__.py
+Simple_Cypher.egg-info/PKG-INFO
+Simple_Cypher.egg-info/SOURCES.txt
+Simple_Cypher.egg-info/dependency_links.txt
+Simple_Cypher.egg-info/top_level.txt
