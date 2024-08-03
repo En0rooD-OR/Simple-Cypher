@@ -8,7 +8,7 @@ setup(
     long_description_content_type=readme.read(),
     version="0.2.2",
     author="EnrooD-OR",
-    author_email="jensaki152@gmail.com"
+    author_email="jensaki152@gmail.com",
     url="https://github.com/En0rooD-OR/Simple-Cypher",
     packages=["SCypher"],
 )
