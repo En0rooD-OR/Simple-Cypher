@@ -1,1 +1,1 @@
-from SCypher import CesarCypher, VigenereCypher
+from SCypher import *
