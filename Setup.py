@@ -7,7 +7,7 @@ setup(
     description="Cesar and Vignére code cipher and decryptor",
     long_description_content_type=readme.read(),
     version="0.3.0",
-    author="EnrooD-OR",
+    author="KatsuDev",
     author_email="jensaki152@gmail.com",
     url="https://github.com/En0rooD-OR/Simple-Cypher",
     packages=["SCypher"],
